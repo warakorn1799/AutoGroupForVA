@@ -1,1 +1,1 @@
-# Auto-Group-for-VA
+This is Script for Auto group data for scan.
